@@ -47,16 +47,16 @@
   </li><!-- End Contact Page Nav -->
 
   <li class="nav-item">
-    <a class="nav-link collapsed" href="pages-register.html">
+    <a class="nav-link collapsed" href="pages-register.php">
       <i class="bi bi-card-list"></i>
-      <span>Register</span>
+      <span>Регистрация</span>
     </a>
   </li><!-- End Register Page Nav -->
 
   <li class="nav-item">
-    <a class="nav-link collapsed" href="pages-login.html">
+    <a class="nav-link collapsed" href="pages-login.php">
       <i class="bi bi-box-arrow-in-right"></i>
-      <span>Login</span>
+      <span>Вход в аккаунт</span>
     </a>
   </li><!-- End Login Page Nav -->
 
@@ -66,3 +66,15 @@
 
 </aside><!-- End Sidebar-->
 
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/chart.js/chart.min.js"></script>
+  <script src="assets/vendor/echarts/echarts.min.js"></script>
+  <script src="assets/vendor/quill/quill.min.js"></script>
+  <script src="assets/vendor/simple-datatables/simple-datatables.js"></script>
+  <script src="assets/vendor/tinymce/tinymce.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
